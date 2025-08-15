@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Second Prize, 14th National Undergraduate Mathematics Competition, 2022–2023.
 
-- National Scholarship for Graduate Student, 2024.
+- First Prize (School Level), “Returning to Hometown” Winter Social Practice Program, leading a 20-member team to promote the traditional culture of Luoyang, 2022.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Chief Volunteer Leader, participated in frontline COVID-19 prevention work at Zhengzhou Zhongyuan International Expo Center Fangcang Shelter Hospital, 2022.
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- First Prize, "Zhongbo Cup" Case Analysis Competition, Zhengzhou University, 2021.

@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![d172-tianshi](https://img.shields.io/badge/tianshi-github-blue?logo=github)](https://github.com/d172-tianshi)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a first-year graduate student in the [School of Mathematics and Statistics](https://math.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/).  
+Before that, I received my B.S. degree in Financial Mathematics from [Zhengzhou University](https://www.zzu.edu.cn/).  
+I am advised by [Prof. Peng Li](https://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=201) (Associate Professor) of the Institute of Computational Mathematics.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: [d17260643634@163.com](mailto:d17260643634@163.com)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Applied Statistics, Lanzhou University, 2024—2027.\
+B.S., Financial Mathematics, Zhengzhou University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Sparse Phase Retrieval, High-Dimensional Convex Geometry, Real Algebraic Geometry Optimization.
+
 
